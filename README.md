@@ -1,2 +1,1 @@
-# Trapti04.github.io
-My website
+Sarthhak AI Website
